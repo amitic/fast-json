@@ -1,4 +1,4 @@
-export default class FastJson {
+export class FastJson {
   constructor(options?: FastJsonOptions);
   /**
    * Adds a listener function for the provided path.

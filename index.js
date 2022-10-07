@@ -1,1 +1,3 @@
-module.exports = require('./lib/FastJson');
+module.exports = {
+    ...require('./lib/FastJson'),
+};

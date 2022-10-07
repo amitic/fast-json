@@ -9,7 +9,7 @@ npm install fast-json
 
 ## Usage
 ```javascript
-const FastJson = require('fast-json');
+const { FastJson } = require('fast-json');
 
 const data = JSON.stringify({
   ireland: {
